@@ -4,4 +4,5 @@ Hobby 1: Basketball
         cara bermainnya adalah mendribble atau membawa bola dengan memantulkan bola ke bawah
         cara mencetak poinnya dengan memasukkan bola ke ring
         biasanya permainan dilakukan 5vs5 atau bisa juga 3vs3
-Hobby yang ingin dilakukan: Bermain alat musik drum
+Hobby yang ingin dilakukan 1: Bermain alat musik drum
+Hobby yang ingin dilakukan 2: Bermain gitar
