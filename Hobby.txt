@@ -1,0 +1,6 @@
+Name : Frisco
+Hobby : Basketball 
+    => hobi saya yang satu ini adalah bermain bola basket 
+        cara bermainnya adalah mendribble atau membawa bola dengan memantulkan bola ke bawah
+        cara mencetak poinnya dengan memasukkan bola ke ring
+        biasanya permainan dilakukan 5vs5 atau bisa juga 3vs3
