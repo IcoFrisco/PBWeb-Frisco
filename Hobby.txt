@@ -6,3 +6,4 @@ Hobby 1: Basketball
         biasanya permainan dilakukan 5vs5 atau bisa juga 3vs3
 Hobby yang ingin dilakukan 1: Bermain alat musik drum
 Hobby yang ingin dilakukan 2: Bermain gitar
+Hobby yang pernah ditinggalkan : Mancing
