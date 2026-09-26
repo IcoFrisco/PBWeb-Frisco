@@ -1,2 +1,2 @@
 # PBWeb-Frisco
-Repository yang berisikan tentang hobi saya beserta penjelasannya
+Repository yang berisikan tugas PBWeb
