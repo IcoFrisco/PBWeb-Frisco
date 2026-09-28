@@ -27,25 +27,28 @@ td {
 }
 .Judul1{
     text-align: center;
-    background-color: rgb(132, 158, 24);
+    background-image:url(https://thumb.viva.id/vivasemarang/1265x711/2025/05/20/682c74c3e201a-pemandangan-gunung-gunung-dari-puncak-merbabu_semarang.jpg);
+    background-size: cover;
+    background-position: 50% 38%;
     color: white;
-    margin: -20px -20px 20px -20px;
+    margin: 0 0 20px 0;
     padding: 18px;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
 }
 .container {
-    width: 900px;
-    max-width: 100%;
+    max-width: none;
     margin: 0 auto;
     background-color: white;
 }
-container > h2,
+.container > h2,
 .container > p,
-.img1, .tekstengah, .tautan, .summit, .bagian_akhir {
+.tekstengah, .tautan, .summit, .bagian_akhir {
     padding: 10px 20px;
+    max-width: none;
 }
 
 h2 {
-    color: rgb(132, 158, 24);
+    color: #2e6b4f;
 }
 
 p {
@@ -55,4 +58,51 @@ p {
 ul, ol {
     margin-bottom: 10px;
     padding-left: 25px;
+}
+img{
+    width: 100%;
+    display:block;
+}
+figure img{
+    width: 50%;
+    border-top: 8px solid #2e6b4f;
+    border-bottom: 8px solid #2e6b4f;
+    margin-left: 15px;
+}
+.tekstengah{
+    background-color: #ecf3ef;
+}
+.tautan{
+    text-align: center;
+}
+.summit{
+    background-color: #ecf3ef;
+}
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+th {
+    background-color: #2e6b4f;
+    color: white;
+    padding: 8px;
+}
+
+td {
+    padding: 8px;
+    text-align: center;
+}
+nav {
+    padding: 10px 20px;
+    background-color: #f7f9ee;
+}
+nav a {
+    margin-right: 15px;
+    color: sienna;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
