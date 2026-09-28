@@ -32,3 +32,27 @@ td {
     margin: -20px -20px 20px -20px;
     padding: 18px;
 }
+.container {
+    width: 900px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+container > h2,
+.container > p,
+.img1, .tekstengah, .tautan, .summit, .bagian_akhir {
+    padding: 10px 20px;
+}
+
+h2 {
+    color: rgb(132, 158, 24);
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul, ol {
+    margin-bottom: 10px;
+    padding-left: 25px;
+}
